@@ -1,0 +1,21 @@
+ 
+ 
+ 
+ 
+ git commit -m "added testing files"
+ git status
+ rm testing.py
+ ls
+ git status  git restore testing.py
+ git status
+ ls
+ history
+ cd git
+ ls'
+ git status
+ git add .
+ git status
+ cd ..
+ ls
+ cd git-demo/
+ ls
